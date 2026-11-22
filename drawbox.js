@@ -12,9 +12,9 @@
 				     `\\´´\¸.·´
         
 */
-const GOOGLE_FORM_ID = "1FAIpQLScbzFT1pxeIkp5yNB3fB7VD9V89Jbitr4h30Q3jXYjy54SlMQ";
-const ENTRY_ID = "entry.251336726";
-const GOOGLE_SHEET_ID = "16jUCXXinqztl3sFftpWur9yFCAiASDsvmIsF3xHv-BU";
+const GOOGLE_FORM_ID = "1FAIpQLSe6P6vLeTMg8alZ-l6RBenJMRfqveaoK-VjRdQSlPsYGYeeZA";
+const ENTRY_ID = "entry.1583155503";
+const GOOGLE_SHEET_ID = "17PLIU-dWVLKzXXlNFcdAloWx1XoYlxiKZgf5BvQHgCE";
 const DISPLAY_IMAGES = true;
 
 /*
